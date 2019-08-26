@@ -1,5 +1,5 @@
-pwtoken = "your bots.discord.pw token"
+pwtoken = "NjA4NzE1NjQ3NjM1MTYxMTE4.XV0cgA.RlBnivMmVU5ine6xF7-5L0tOoWQ"
 
-orgtoken = "your discordbots.org token"
+orgtoken = "NjA4NzE1NjQ3NjM1MTYxMTE4.XV0cgA.RlBnivMmVU5ine6xF7-5L0tOoWQ"
 
-discordToken = "your discord bot token"
+discordToken = "NjA4NzE1NjQ3NjM1MTYxMTE4.XV0cgA.RlBnivMmVU5ine6xF7-5L0tOoWQ"
